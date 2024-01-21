@@ -1,5 +1,15 @@
 {
   "name": "FUCKMANTA",
   "symbol": "FKM",
-  "image": "https://raw.githubusercontent.com/desmondezo1/sol-token/main/token_image.jpeg"
+  "description": "You got zero $ from MANTA, Fuck manta is giving you opportunity to earn what you deserve...F*ckManta! We are here to make it better! ",
+  "image": "https://raw.githubusercontent.com/desmondezo1/sol-token/main/token_image.jpeg",
+  "properties": {
+    "files": [
+      {
+        "uri": "https://raw.githubusercontent.com/desmondezo1/sol-token/main/token_image.jpeg",
+        "type": "image/jpeg"
+      }
+    ],
+    "category": "image"
+  }
 }
